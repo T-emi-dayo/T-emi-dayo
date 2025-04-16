@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Akinbowa Temidayo
   Data Scientist | Machine Learning Enthusiast  
-  Passionate about AI, NLP, and Data Visualization  
+  Passionate about AI, DP, and Data Visualization  
 
-📂 **Portfolio Projects:**  
-- 🔍 [Heart Disease Prediction](github.com/your-repo-house-price)  
--   [Bulldozer Price Prediction](github.com/your-repo-churn)
+📂 **Projects:**  
+- 🔍 [Heart Disease Prediction](https://github.com/T-emi-dayo/heart-disease-prediction)  
+-   [Bulldozer Price Prediction](https://github.com/T-emi-dayo/bulldozer-price-prediction)
 
+  
 🚀 Let's connect: [LinkedIn](https://www.linkedin.com/in/akinbowa-temidayo/)

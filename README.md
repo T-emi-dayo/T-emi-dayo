@@ -24,7 +24,7 @@
   <img src="https://komarev.com/ghpvc/?username=T-emi-dayo&style=for-the-badge&color=F7B801"/>
 </p>
 
-</div>
+</div align = "center">
 
 ---
 
